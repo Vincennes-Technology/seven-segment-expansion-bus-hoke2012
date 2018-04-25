@@ -10,7 +10,7 @@
 #* Run "sudo i2cdetect -y 1" to ensure that the device is detected by your I2C
 #******This project identifies the installed device under address "0x22"
 #  yours may be different, if so then change anywhere addressed to "0x22"
-#  to the address presented when you run "sudo pip install smbus2"
+#  to the address presented when you run "Run "sudo i2cdetect -y 1"
 
 
 #\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
